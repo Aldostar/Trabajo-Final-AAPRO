@@ -1,0 +1,126 @@
+.dsemana {
+color: purple;
+font-size: 1.3em;
+
+}
+.dhorarioSI{
+    color:rgb(209, 223, 25);
+    font-size: 1em;
+    background-color: rgb(199, 169, 228);
+
+}
+
+.dhorarioNO{
+    color:rgb(199, 169, 228); 
+    font-size: 1em;
+    background-color:rgb(209, 223, 25); 
+
+}
+.titles {
+color: green
+
+
+}
+
+
+.hfondo {
+   
+    background-color: rgb(119, 152, 225);
+    width: 100%;
+    height: 110px;
+
+}
+
+.hfondofoot {
+    background-color:  rgb(119, 152, 225);
+    width: 100%;
+    height: 60px;
+    color: rgb(0, 36, 114);
+    text-align: center;
+   
+
+}
+
+
+
+
+.navegador{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+width: 30%;
+height: 50px;
+display: flex;
+justify-content: space-between;
+list-style: none;
+margin: 0;
+padding: 0;
+text-align: center;
+color: rgb(0, 36, 114)
+  }
+
+.colorcito{
+    color: rgb(207, 178, 160);
+}
+
+.botonig{
+    width: 20px;
+}
+
+
+/*FOTO Quien somos*/
+
+.foto1{
+
+ width: 150px;
+ height: 150px;
+ background-size: cover;
+ border-radius: 50%;
+}
+
+
+
+h1 {
+    text-align: center;
+  }
+
+main{
+flex: 70%;
+}
+
+
+
+
+/*imagenes tarj*/
+
+.fototarj{
+    width: 300px;
+  height: 200px;
+}
+
+/*tabla de sobre nosotros*/
+.tbl{
+background-color: rgb(210, 184, 234);
+color: rgb(0, 11, 128);
+}
+.letbl{
+    color: rgb(244, 244, 244)
+}
+
+
+/*form trabaja con nosotros*/
+
+.colorform{
+    color: rgb(201, 147, 178);
+}
+
+
+
+/*foto de fondo*/
+
+body{
+    background-image: url(flores.jpg.jpg);
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+   
+    }
